@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.60e4b209.chunk.css",
+    "main.css": "/static/css/main.00d58164.chunk.css",
     "main.js": "/static/js/main.67c0d90a.chunk.js",
     "main.js.map": "/static/js/main.67c0d90a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d6bfa14f.js",
@@ -10,13 +10,12 @@
     "static/js/2.cf53650d.chunk.js.map": "/static/js/2.cf53650d.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ebf6e449.chunk.css.map": "/static/css/2.ebf6e449.chunk.css.map",
-    "static/css/main.60e4b209.chunk.css.map": "/static/css/main.60e4b209.chunk.css.map",
+    "static/css/main.00d58164.chunk.css.map": "/static/css/main.00d58164.chunk.css.map",
     "static/js/2.cf53650d.chunk.js.LICENSE.txt": "/static/js/2.cf53650d.chunk.js.LICENSE.txt",
     "static/media/Logo.90b07301.svg": "/static/media/Logo.90b07301.svg",
     "static/media/Raise-Hand.2b9a89ed.svg": "/static/media/Raise-Hand.2b9a89ed.svg",
     "static/media/Stop-Video.32759848.svg": "/static/media/Stop-Video.32759848.svg",
     "static/media/ULaw Events.f8d90211.svg": "/static/media/ULaw Events.f8d90211.svg",
-    "static/media/Alert.css": "/static/media/alertbg.05e30a38.png",
     "static/media/ChimeWeb.css": "/static/media/bg.fa8950af.png",
     "static/media/Chat.css": "/static/media/vote.0839abbc.svg",
     "static/media/camera.776f1869.svg": "/static/media/camera.776f1869.svg",
@@ -39,7 +38,7 @@
     "static/js/runtime-main.d6bfa14f.js",
     "static/css/2.ebf6e449.chunk.css",
     "static/js/2.cf53650d.chunk.js",
-    "static/css/main.60e4b209.chunk.css",
+    "static/css/main.00d58164.chunk.css",
     "static/js/main.67c0d90a.chunk.js"
   ]
 }
