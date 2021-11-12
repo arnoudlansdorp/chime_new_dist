@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.00d58164.chunk.css",
-    "main.js": "/static/js/main.67c0d90a.chunk.js",
-    "main.js.map": "/static/js/main.67c0d90a.chunk.js.map",
+    "main.js": "/static/js/main.14920c68.chunk.js",
+    "main.js.map": "/static/js/main.14920c68.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d6bfa14f.js",
     "runtime-main.js.map": "/static/js/runtime-main.d6bfa14f.js.map",
     "static/css/2.ebf6e449.chunk.css": "/static/css/2.ebf6e449.chunk.css",
@@ -12,7 +12,7 @@
     "static/css/2.ebf6e449.chunk.css.map": "/static/css/2.ebf6e449.chunk.css.map",
     "static/css/main.00d58164.chunk.css.map": "/static/css/main.00d58164.chunk.css.map",
     "static/js/2.cf53650d.chunk.js.LICENSE.txt": "/static/js/2.cf53650d.chunk.js.LICENSE.txt",
-    "static/media/Logo.90b07301.svg": "/static/media/Logo.90b07301.svg",
+    "static/media/Logo.3994c18b.svg": "/static/media/Logo.3994c18b.svg",
     "static/media/Raise-Hand.2b9a89ed.svg": "/static/media/Raise-Hand.2b9a89ed.svg",
     "static/media/Stop-Video.32759848.svg": "/static/media/Stop-Video.32759848.svg",
     "static/media/ULaw Events.f8d90211.svg": "/static/media/ULaw Events.f8d90211.svg",
@@ -39,6 +39,6 @@
     "static/css/2.ebf6e449.chunk.css",
     "static/js/2.cf53650d.chunk.js",
     "static/css/main.00d58164.chunk.css",
-    "static/js/main.67c0d90a.chunk.js"
+    "static/js/main.14920c68.chunk.js"
   ]
 }
